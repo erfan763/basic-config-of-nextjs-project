@@ -1,0 +1,1 @@
+# basic-config-of-nextjs-project
